@@ -10,11 +10,7 @@
 // main entry poit to the program
 // the function tha is executed by default
 int main() {
-
-  
   std::cout << "Hi there!!! This is Stefano!!!" << std::endl;
   std::cout << std::endl << std::endl;
   return(0);
-
-  
 }
